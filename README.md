@@ -2,13 +2,13 @@
 
 :information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE :)
 
-:bar_chart: &nbsp;There are currently **1518** questions
+:bar_chart: &nbsp;There are currently **1571** questions
 
 :books: &nbsp;To learn more about DevOps and SRE, check the resources in [devops-resources](https://github.com/bregman-arie/devops-resources) repository
 
 :warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [Q&A](common-qa.md) for more details
 
-:busts_in_silhouette: &nbsp;[Join](https://www.facebook.com/groups/538897960007080) our [DevOps community](https://www.facebook.com/groups/538897960007080) where we have discussions and resources on DevOps
+:busts_in_silhouette: &nbsp;[Join](https://www.facebook.com/groups/538897960007080) our [DevOps community](https://www.facebook.com/groups/538897960007080) where we have discussions and share resources on DevOps
 
 :pencil: &nbsp;You can add more questions and exercises by submitting pull requests :) Read about contribution guidelines [here](CONTRIBUTING.md)
 
@@ -26,16 +26,15 @@
     <td align="center"><a href="#ansible"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
     <td align="center"><a href="#Network"><img src="images/network.png" width="80x;" height="75px;" alt="Network"/><br /><b>Network</b></a></td>
     <td align="center"><a href="#linux"><img src="images/linux.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Linux</b></a></td>
-    <td align="center"><a href="#terraform"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+
   </tr>
   <tr>
     <td align="center"><a href="#programming"><img src="images/programming.png" width="75px;" height="75px;" alt="programming"/><br /><b>Programming</b></a></td>
     <td align="center"><a href="#python"><img src="images/python.png" width="80px;" height="75px;" alt="Python"/><br /><b>Python</b></a></td>
     <td align="center"><a href="#go"><img src="images/Go.png" width="75px;" height="75px;" alt="go"/><br /><b>Go</b></a></td>
-    <td align="center"><a href="#shell-scripting"><img src="images/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Shell Scripting</b></a></td>
+    <td align="center"><a href="#scripts"><img src="images/bash.png" width="70px;" height="75px;" alt="Bash"/><br /><b>Scripts</b></a></td>
     <td align="center"><a href="#kubernetes"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td>
     <td align="center"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-    <td align="center"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="#cloud"><img src="images/cloud.png" width="110px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
@@ -44,25 +43,22 @@
     <td align="center"><a href="#gcp"><img src="images/googlecloud.png" width="80px;" height="75px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
     <td align="center"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
     <td align="center"><a href="#security"><img src="images/security.png" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
-    <td align="center"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
   </tr>
   <tr>
+    <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
     <td align="center"><a href="#monitoring"><img src="images/monitoring.png" width="75px;" height="75px;" alt="Monitoring"/><br /><b>Monitoring</b></a></td>
     <td align="center"><a href="#elastic"><img src="images/elastic.png" width="110px;" height="75px;" alt="Elastic"/><br /><b>Elastic</b></a></td>
     <td align="center"><a href="#virtualization"><img src="images/virtualization.png" width="75px;" height="75px;" alt="Virtualization"/><br /><b>Virtualization</b></a></td>
     <td align="center"><a href="#dns"><img src="images/dns.png" width="75px;" height="75px;" alt="DNS"/><br /><b>DNS</b></a></td>
-    <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
-    <td align="center"><a href="#distributed"><img src="images/distributed.png" width="110px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
-    <td align="center"><a href="#general"><img src="images/general.png" width="110px;" height="75px;" alt="General"/><br /><b>General</b></a></td>
+    <td align="center"><a href="#Misc"><img src="images/general.png" width="110px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
     <td align="center"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
     <td align="center"><a href="#regex"><img src="images/regex.png" width="75ph;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
-    <td align="center"><a href="https://github.com/bregman-arie/system-design-exercises"><img src="images/design.png" width="110px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
+    <td align="center"><a href="#system-design"><img src="images/design.png" width="110px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
     <td align="center"><a href="#hardware"><img src="images/hardware.png" width="110px;" height="75px;" alt="Hardware"/><br /><b>Hardware</b></a></td>
     <td align="center"><a href="#big-data"><img src="images/big-data.png" width="110px;" height="75px;" alt="Big Data"/><br /><b>Big Data</b></a></td>
-    <td align="center"><a href="#questions-you-ask"><img src="images/you.png" width="110px;" height="75px;" alt="you"/><br /><b>Questions you ask</b></a></td>
   </tr>
   <tr>
     <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
@@ -71,7 +67,13 @@
     <td align="center"><a href="#openshift"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
     <td align="center"><a href="#storage"><img src="images/storage.png" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
     <td align="center"><a href="#HR"><img src="images/HR.png" width="110px;" height="75px;" alt="HR"/><br /><b>HR</b></a></td>
-    <td align="center"><a href="#exercises"><img src="images/exercises.png" width="110px;" height="75px;" alt="Exercises"/><br /><b>Exercises</b></a></td>
+  </tr>
+  <tr>
+      <td align="center"><a href="#terraform"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
+      <td align="center"><a href="#mongo"><img src="images/mongo.png" width="75px;" height="75px;" alt="Mongo"/><br /><b>Mongo</b></a></td>
+      <td align="center"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
+      <td align="center"><a href="#distributed"><img src="images/distributed.png" width="110px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
+      <td align="center"><a href="#questions-you-ask"><img src="images/you.png" width="90px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
   </tr>
 </table>
 </center>
@@ -81,8 +83,18 @@
 
 ## DevOps
 
+### DevOps Exercises
+
+|Name|Topic|Objective & Instructions|Solution|Comments|
+|--------|--------|------|----|----|
+| Set up a CI pipeline | CI | [Exercise](exercises/devops/ci_for_open_source_project.md) | | |
+
+### DevOps Self Assessment
+
 <details>
 <summary>What is DevOps?</summary><br><b>
+
+You can answer it by describing what DevOps means to you and/or rely on how companies define it. I've put here a couple of examples.
 
 Amazon:
 
@@ -115,9 +127,118 @@ Google:
 <details>
 <summary>What are the anti-patterns of DevOps?</summary><br><b>
 
-* One person is in charge of different tasks. For example there is only one person who is allowed to merge the code of everyone else into the repository
+A couple of examples:
+
+* One person is in charge of specific tasks. For example there is only one person who is allowed to merge the code of everyone else into the repository.
 * Treating production differently from development environment. For example, not implementing security in development environment
 * Not allowing someone to push to production on Friday ;)
+</b></details>
+
+<details>
+<summary>How would you describe a successful DevOps engineer or a team?</summary><br><b>
+
+The answer can focus on:
+
+* Collaboration
+* Communication
+* Set up and improve workflows and processes (related to testing, delivery, ...)
+* Dealing with issues
+
+Things to think about:
+
+* What DevOps teams or engineers should NOT focus on or do?
+* Do DevOps teams or engineers have to be innovative or practice innovation as part of their role?
+</b></details>
+
+#### Tooling
+
+<details>
+<summary>What are you taking into consideration when choosing a tool/technology?</summary><br><b>
+
+A few ideas to think about:
+
+  * mature/stable vs. cutting edge
+  * community size
+  * architecture aspects - agent vs. agentless, master vs. masterless, etc.
+  * learning curve
+</b></details>
+
+<details>
+<summary>Can you describe which tool or platform you chose to use in some of the following areas and how?
+
+  * CI/CD
+  * Provisioning infrastructure
+  * Configuration Management
+  * Monitoring & alerting
+  * Logging
+  * Code review
+  * Code coverage
+  * Issue Tracking
+  * Containers and Containers Orchestration
+  * Tests</summary><br><b>
+
+This is a more practical version of the previous question where you might be asked additional specific questions on the technology you chose
+
+  * CI/CD - Jenkins, Circle CI, Travis, Drone, Argo CD, Zuul
+  * Provisioning infrastructure - Terraform, CloudFormation
+  * Configuration Management - Ansible, Puppet, Chef
+  * Monitoring & alerting - Prometheus, Nagios
+  * Logging - Logstash, Graylog, Fluentd
+  * Code review - Gerrit, Review Board
+  * Code coverage - Cobertura, Clover, JaCoCo
+  * Issue tracking - Jira, Bugzilla
+  * Containers and Containers Orchestration - Docker, Podman, Kubernetes, Nomad
+  * Tests - Robot, Serenity, Gauge
+</b></details>
+
+<details>
+<summary>A team member of yours, suggests to replace the current CI/CD platform used by the organization with a new one. How would you reply?</summary><br><b>
+
+Things to think about:
+
+* What we gain from doing so? Are there new features in the new platform? Does the new platform deals with some of the limitations presented in the current platform?
+* What this suggestion is based on? In other words, did he/she tried out the new platform? Was there extensive technical research?
+* What does the switch from one platform to another will require from the organization? For example, training users who use the platform? How much time the team has to invest in such move?
+</b></details>
+
+#### Version Control
+
+<details>
+<summary>What is Version Control?</summary><br><b>
+	
+* Version control is the sytem of tracking and managing changes to software code.
+* It helps software teams to manage changes to source code over time.
+* Version control also helps developers move faster and allows software teams to preserve efficiency and agility as the team scales to include more developers.
+</b></details>
+
+<details>
+<summary>What is a commit?</summary><br><b>
+	
+* In Git, a commit is a snapshot of your repo at a specific point in time.
+* The git commit command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
+</b></details>
+
+<details>
+<summary>What is a merge?</summary><br><b>
+
+* Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+</b></details>
+
+<details>
+<summary>What is a merge conflict?</summary><br><b>
+
+* A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits. When all the changes in the code occur on different lines or in different files, Git will successfully merge commits without your help.
+</b></details>
+
+<details>
+<summary>What best practices are you familiar with regarding version control?</summary><br><b>
+	
+* Use a descriptive commit message
+* Make each commit a logical unit
+* Incorporate others' changes frequently
+* Share your changes frequently
+* Coordinate with your co-workers
+* Don't commit generated files
 </b></details>
 
 #### CI/CD
@@ -194,41 +315,6 @@ There are multiple approaches as to where to store the CI/CD pipeline definition
 
 Both have advantages and disadvantages.
 With "configuration->deployment" model for example, where you build one image to be used by multiple deployments, there is less chance of deployments being different from one another, so it has a clear advantage of a consistent environment.
-</b></details>
-
-<details>
-<summary>What tooling are you using for the following areas/tasks? Why?
-
-  * CI/CD
-  * Provisioning infrastructure
-  * Configuration Management
-  * Monitoring & alerting
-  * Logging
-  * Code review
-  * Code coverage
-  * Issue Tracking
-  * Containers and Containers Orchestration
-  * Tests</summary><br><b>
-  * CI/CD - Jenkins, Circle CI, Travis, Drone, Argo CD, Zuul
-  * Provisioning infrastructure - Terraform, CloudFormation
-  * Configuration Management - Ansible, Puppet, Chef
-  * Monitoring & alerting - Prometheus, Nagios
-  * Logging - Logstash, Graylog, Fluentd
-  * Code review - Gerrit, Review Board
-  * Code coverage - Cobertura, Clover, JaCoCo
-  * Issue tracking - Jira, Bugzilla
-  * Containers and Containers Orchestration - Docker, Podman, Kubernetes, Nomad
-  * Tests - Robot, Serenity, Gauge
-</b></details>
-
-<details>
-<summary>What are you taking into consideration when choosing a tool/technology?</summary><br><b>
-
-In your answer you can mention one or more of the following:
-  * mature/stable vs. cutting edge
-  * community size
-  * architecture aspects - agent vs. agentless, master vs. masterless, etc.
-  * learning curve
 </b></details>
 
 <details>
@@ -341,20 +427,9 @@ There are multiple ways to answer this question (there is no right and wrong her
 <details>
 <summary>What is Chaos Engineering?</summary><br><b>
 
+Wikipedia: "Chaos engineering is the discipline of experimenting on a software system in production in order to build confidence in the system's capability to withstand turbulent and unexpected conditions"
+
 Read about Chaos Engineering [here](https://en.wikipedia.org/wiki/Chaos_engineering)
-</b></details>
-
-<details>
-<summary>What is an error budget?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What are MTTF (mean time to failure) and MTTR (mean time to repair)? What these metrics help us to evaluate?</summary><br><b>
-
-	* MTTF (mean time to failure) other known as uptime, can be defined as how long the system run before if fails.
-	* MTTR (mean time to recover) on the other hand, is the amount of time it takes to repair a system.
-	* MTBF (mean time between failues) is the amount of time between failures of the system. These errors can be intermittent or fatal.
-
 </b></details>
 
 <details>
@@ -453,19 +528,77 @@ Note: cross-dependency is when you have two or more changes to separate projects
 <summary>Have you contributed to an open source project? Tell me about this experience</summary><br><b>
 </b></details>
 
+<details>
+<summary>What is Distributed Tracing?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is GitOps?</summary><br><b>
+
+GitLab: "GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD tooling, and applies them to infrastructure automation".
+
+Read more [here](https://about.gitlab.com/topics/gitops)
+</b></details>
+
 #### SRE
 
 <details>
 <summary>What are the differences between SRE and DevOps?</summary><br><b>
+
+Google: "One could view DevOps as a generalization of several core SRE principles to a wider range of organizations, management structures, and personnel."
+
+Read more about it [here](https://sre.google/sre-book/introduction)
 </b></details>
 
 <details>
 <summary>What SRE team is responsible for?</summary><br><b>
 
 Google: "the SRE team is responsible for availability, latency, performance, efficiency, change management, monitoring, emergency response, and capacity planning of their services"
+
+Read more about it [here](https://sre.google/sre-book/introduction)
+</b></details>
+
+<details>
+<summary>What is an error budget?</summary><br><b>
+
+Atlassian: "An error budget is the maximum amount of time that a technical system can fail without contractual consequences."
+
+Read more about it [here](https://www.atlassian.com/incident-management/kpis/error-budget)
+</b></details>
+
+<details>
+<summary>What do you think about the following statement: "100% is the only right availability target for a system"</summary><br><b>
+
+Wrong. No system can guarantee 100% availability as no system is safe from experiencing zero downtime.
+Many systems and services will fall somewhere between 99% and 100% uptime (or at least this is how most systems and services should be).
+</b></details>
+
+<details>
+<summary>What are MTTF (mean time to failure) and MTTR (mean time to repair)? What these metrics help us to evaluate?</summary><br><b>
+
+	* MTTF (mean time to failure) other known as uptime, can be defined as how long the system runs before if fails.
+	* MTTR (mean time to recover) on the other hand, is the amount of time it takes to repair a broken system.
+	* MTBF (mean time between failures) is the amount of time between failures of the system.
+</b></details>
+
+<details>
+<summary>What is the role of monitoring in SRE?</summary><br><b>
+
+Google: "Monitoring is one of the primary means by which service owners keep track of a system’s health and availability"
+
+Read more about it [here](https://sre.google/sre-book/introduction)
 </b></details>
 
 ## Jenkins
+
+### Jenkins Exercises
+
+|Name|Topic|Objective & Instructions|Solution|Comments|
+|--------|--------|------|----|----|
+| Remove Jobs | Scripts - Jobs | [Exercise](exercises/jenkins/remove_jobs.md) | [Solution](exercises/jenkins/solutions/remove_jobs_solution.groovy) | |
+| Remove Builds | Scripts - Builds | [Exercise](exercises/jenkins/remove_builds.md) | [Solution](exercises/jenkins/solutions/remove_builds_solution.groovy) | |
+
+### Jenkins Self Assessment
 
 <details>
 <summary>What is Jenkins? What have you used it for?</summary><br><b>
@@ -499,16 +632,15 @@ This might be considered to be an opinionated answer:
 <details>
 <summary>Explain the following:
 
-  * Job
-  * Build
-  * Plugin
-  * Slave/Node/Worker
-  * Executor</summary><br><b>
-
-  * Job is an automation definition = what and where to execute once the user clicks on "build" 
-  * Build is a running instance of a job. You can have one or more builds at any given point of time (unless limited by confiugration)
-  * A worker is the machine/instance on which the build is running. When a build starts, it "acquires" a worker out of a pool to run on it.
-  * An executor is variable of the worker, defining how many builds can run on that worker in parallel. An executor value of 3 means, that 3 builds can run at any point on that executor (not necessarily of the same job. Any builds)
+- Job
+- Build
+- Plugin
+- Node or Worker
+- Executor</summary><br><b>
+- Job is an automation definition = what and where to execute once the user clicks on "build" 
+- Build is a running instance of a job. You can have one or more builds at any given point of time (unless limited by confiugration)
+- A worker is the machine/instance on which the build is running. When a build starts, it "acquires" a worker out of a pool to run on it.
+- An executor is variable of the worker, defining how many builds can run on that worker in parallel. An executor value of 3 means, that 3 builds can run at any point on that executor (not necessarily of the same job. Any builds)
 </b></details>
 
 <details>
@@ -548,6 +680,8 @@ The pipelines will have multiple stages:
 
 <details>
 <summary>How to secure Jenkins?</summary><br><b>
+
+ [Jenkins documentation](https://www.jenkins.io/doc/book/security/securing-jenkins/) provides some basic intro for securing your Jenkins server.
 </b></details>
 
 <details>
@@ -597,6 +731,16 @@ You can describe the UI way to add new nodes but better to explain how to do in 
 
 <details>
 <summary>What is Cloud Computing? What is a Cloud Provider?</summary><br><b>
+
+Cloud computing refers to the delivery of on-demand computing services 
+over the internet on a pay-as-you-go basis.
+
+In simple words, Cloud computing is a service that lets you use any computing
+service such as a server, storage, networking, databases, and intelligence, 
+right through your browser without owning anything. You can do anything you 
+can think of unless it doesn’t require you to stay close to your hardware.
+
+Cloud service providers are companies that establish public clouds, manage private clouds, or offer on-demand cloud computing components (also known as cloud computing services) like Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Software-as-a-Service(SaaS). Cloud services can reduce business process costs when compared to on-premise IT.
 </b></details>
 
 <details>
@@ -663,9 +807,17 @@ It's important to note that:
 * Serverless Computing allows you to have a different paying model. You basically pay only when your functions are running and not when the VM or containers are running as in other payment models
 </b></details>
 
+<details>
+<summary>Can we replace any type of computing on servers with serverless?</summary><br><b>
+</b></details>
+
+<details>
+<summary>Is there a difference between managed service to SaaS or is it the same thing?</summary><br><b>
+</b></details>
+
 ## AWS
 
-#### Global Infrastructure
+#### AWS Global Infrastructure
 
 <details>
 <summary>Explain the following
@@ -673,11 +825,29 @@ It's important to note that:
   * Availability zone
   * Region
   * Edge location</summary><br><b>
-AWS regions are data centers hosted across different geographical locations worldwide, each region is completely independent of one another.<br>
+AWS regions are data centers hosted across different geographical locations worldwide.<br>
 
 Within each region, there are multiple isolated locations known as Availability Zones. Multiple availability zones ensure high availability in case one of them goes down.<br>
 
 Edge locations are basically content delivery network which caches data and insures lower latency and faster delivery to the users in any location. They are located in major cities in the world.
+</b></details>
+
+<details>
+<summary>True or False? Each AWS region is designed to be completely isolated from the other AWS regions </summary><br><b>
+
+True.
+</b></details>
+
+<details>
+<summary>Do you agree with the statement "AWS region should be chosen based on proximity alone"?</summary><br><b>
+
+Note: opinionated answer.
+
+No. There are a couple of factors to consider when choosing a region (order doesn't mean anything):
+
+1. Cost - regions vary in cost and AWS Price List API can assist in calculating the difference in cost between the different regions.
+2. Speed
+3. Features
 </b></details>
 
 #### AWS IAM
@@ -725,8 +895,8 @@ There can be several reasons for that. One of them is lack of policy. To solve t
 <details>
 <summary>What should you use to:
 
-  * Grant access between two services/resources?
-  * Grant user access to resources/services?</summary><br><b>
+  - Grant access between two services/resources?
+  - Grant user access to resources/services?</summary><br><b>
 
   * Role
   * Policy
@@ -841,11 +1011,12 @@ False. Charges are being made when the code is executed.
 <details>
 <summary>Which of the following set of languages Lambda supports?
 
-  * R, Swift, Rust, Kotlin
-  * Python, Ruby, Go
-  * Python, Ruby, PHP</summary><br><b>
+- R, Swift, Rust, Kotlin
+- Python, Ruby, Go
+- Python, Ruby, PHP
+</summary><br><b>
 
-  * Python, Ruby, Go
+- Python, Ruby, Go
 </b></details>
 
 #### AWS Containers
@@ -907,9 +1078,9 @@ True
 <details>
 <summary>Explain the following:
 
-  * Object Lifecycles
-  * Object Sharing
-  * Object Versioning</summary><br><b>
+  - Object Lifecycles
+  - Object Sharing
+  - Object Versioning</summary><br><b>
 
   * Object Lifecycles - Transfer objects between storage classes based on defined rules of time periods
   * Object Sharing - Share objects via a URL link
@@ -1398,6 +1569,8 @@ False. Only one internet gateway can be attached to a single VPC.
 
 <details>
 <summary>What is an Elastic IP address?</summary><br><b>
+An Elastic IP address is a reserved public IP address that you can assign to any EC2 instance in a particular region, until you choose to release it.
+When you associate an Elastic IP address with an EC2 instance, it replaces the default public IP address. If an external hostname was allocated to the instance from your launch settings, it will also replace this hostname; otherwise, it will create one for the instance. The Elastic IP address remains in place through events that normally cause the address to change, such as stopping or restarting the instance.
 </b></details>
 
 <details>
@@ -1646,9 +1819,9 @@ Read more about it [here](https://aws.amazon.com/sns)
 <details>
 <summary>Explain the following in regards to SNS:
 
-  * Topics
-  * Subscribers
-  * Publishers</summary><br><b>
+  - Topics
+  - Subscribers
+  - Publishers</summary><br><b>
 
   * Topics - used for grouping multiple endpoints
   * Subscribers - the endpoints where topics send messages to
@@ -1725,12 +1898,13 @@ Learn more [here](https://aws.amazon.com/partners/consulting)
 <details>
 <summary>Which of the following are AWS accounts types (and are sorted by order)?
 
-  * Basic, Developer, Business, Enterprise
-  * Newbie, Intermediate, Pro, Enterprise
-  * Developer, Basic, Business, Enterprise
-  * Beginner, Pro, Intermediate Enterprise</summary><br><b>
+  - Basic, Developer, Business, Enterprise
+  - Newbie, Intermediate, Pro, Enterprise
+  - Developer, Basic, Business, Enterprise
+  - Beginner, Pro, Intermediate Enterprise
+  </summary><br><b>
 
-  * Basic, Developer, Business, Enterprise
+  - Basic, Developer, Business, Enterprise
 </b></details>
 
 <details>
@@ -1760,6 +1934,10 @@ Learn more [here](https://aws.amazon.com/codedeploy)
 </b></details>
 
 #### AWS Misc
+
+<details>
+<summary>Which AWS service you have experience with that you think is not very common?</summary><br><b>
+</b></details>
 
 <details>
 <summary>What is AWS CloudSearch?</summary><br><b>
@@ -1950,14 +2128,15 @@ Packets that are sent on the ethernet are always coming from a MAC address and s
 
 <details>
 <summary>When is this MAC address used?: ff:ff:ff:ff:ff:ff</summary><br><b>
+
+
+When a device sends a packet to the broadcast MAC address (FF:FF:FF:FF:FF:FF​), it is delivered to all stations on the local network. It needs to be used in order for all devices to receive your packet at the datalink layer.
 </b></details>
 
 <details>
 <summary>What is an IP address?</summary><br><b>
 
 An Internet Protocol address (IP address) is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.An IP address serves two main functions: host or network interface identification and location addressing.
-
-
 </b></details>
 
 <details>
@@ -1987,7 +2166,11 @@ A Subnet mask is a 32-bit number that masks an IP address, and divides the IP ad
 </b></details>
 
 <details>
-<summary>What is a private IP address? What do we need it for?</summary><br><b>
+<summary>What is a private IP address? In which scenarios/system designs, one should use it?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is a public IP address? In which scenarios/system designs, one should use it?</summary><br><b>
 </b></details>
 
 <details>
@@ -2140,7 +2323,7 @@ Systems keep an ARP look-up table where they store information about what IP add
 </b></details>
 
 <details>
-<summary>What is TTL?</summary><br><b>
+<summary>What is TTL? What does it helps to prevent?</summary><br><b>
 </b></details>
 
 <details>
@@ -2193,7 +2376,10 @@ Read more [here](https://linuxjourney.com/lesson/dhcp-overview)
 </b></details>
 
 <details>
-<summary>What is NAT? How does it works?</summary><br><b>
+<summary>What is NAT? How does it work?</summary><br><b>
+
+NAT stands for network address translation. It’s a way to map multiple local private addresses to a public one before transferring the information. Organizations that want multiple devices to employ a single IP address use NAT, as do most home routers.
+For example, your computer's private IP could be 192.168.1.100, but your router maps the traffic to it's public IP (e.g. 1.1.1.1). Any device on the internet would see the traffic coming from your public IP (1.1.1.1) instead of your private IP (192.168.1.100).
 </b></details>
 
 <details>
@@ -2324,12 +2510,20 @@ Read more [here](https://www.globalsign.com/en/blog/what-is-hsts-and-how-do-i-us
 
 ## Linux
 
+#### Linux Master Application
+
+A completely free application for testing your knowledge on Linux
+
+<a href="https://play.google.com/store/apps/details?id=com.codingshell.linuxmaster"><img src="images/linux_master.jpeg"/></a>
+
+### Linux Self Assessment
+
 <details>
 <summary>What is your experience with Linux?</summary><br><b>
 
 Only you know :)
-Some ideas on what to focus:
 
+For example:
 * Administration
 * Troubleshooting & Debugging
 * Storage
@@ -2341,80 +2535,17 @@ Some ideas on what to focus:
 <details>
 <summary>Explain what each of the following commands does and give an example on how to use it:
 
+  * touch
   * ls
   * rm
-  * rmdir (can you achieve the same result by using <code>rm</code>?)
-  * touch
-  * whoami
-  * man
-  * pwd
-  * df
-  * file
   * cat
   * cp
-  * mv
-  * grep
-  * nslookup or dig
   * mkdir
-  * find
-  * alias</summary><br><b>
-
-  * ls - list files and directories. You can highlight common flags like -d, -a, -l, ...
-  * rm - remove files and directories. You should mention -r for recursive removal
-  * rmdir - remove directories but you should mention it's possible to use rm for that
-  * touch - update timestamps but common usage is to create files
-  * whoami - current logged-in user
-  * man - reference manuals
-  * pwd - print working directory
-  * df - provides info regarding file system disk space usage
-  * file - to find out what kind of a file it is
-  * cat - quickly read a file without opening the file, it only displays the file contents
-  * cp - make a copy of files and pasting it to a destination
-  * mv - moving files and also renaming them
-  * grep - print lines that match patterns. Could be nice to mention -v, -r, -E flags
-  * nslookup or dig - query nameservers
-  * mkdir - create a directory if it does not exist already
-  * find - searching files
-  * alias - shorten repetitive long commands for efficient command line usage
+</summary><br><b>
 </b></details>
 
 <details>
-<summary>What each of the following commands does?
-
-  * cd /
-  * cd ~
-  * cd
-  * cd ..
-  * cd .
-  * cd -</summary><br><b>
-  cd or "change directory" helps one to change directory when they want to.
-
-  * cd / -> change to the root directory
-  * cd ~ -> change to your home directory
-  * cd -> change to your home directory
-  * cd .. -> change to the directory above your current i.e parent directory
-  * cd . -> change to the directory you currently in
-  * cd - -> change to the last visited path
-</b></details>
-
-<details>
-<summary>How to rename the name of a file or a directory?</summary><br><b>
-
-mv command.
-</b></details>
-
-<details>
-<summary>What is stored in each of the following paths?</summary><br><b>
-
-  * /bin, /sbin, /usr/bin and /usr/sbin
-  * /etc
-  * /home
-  * /var
-  * /tmp
-</b></details>
-
-<details>
-<summary>What is special about /tmp directory when compared to other directories?</summary><br><b>
+<summary>Some of the commands in the previous question can be run with the -r/--recursive flag. What does it do?</summary><br><b>
 </b></details>
 
 <details>
@@ -2432,9 +2563,128 @@ These are files directly not displayed after performing a standard ls direct lis
 </b></details>
 
 <details>
+<summary>What do > and < do in terms of input and output for programs?</summary><br><b>
+They take in input (<) and output for a given file (>) using stdin and stdout.
+
+`myProgram < input.txt > executionOutput.txt`
+</b></details>
+
+<details>
+<summary>Explain what each of the following commands does and give an example on how to use it:
+
+  * sed
+  * grep
+  * cut
+  * awk
+</summary><br><b>
+</b></details>
+
+<details>
+<summary>What each of the following commands does?
+
+  * pwd
+  * cd
+  * find
+  * ls
+</summary><br><b>
+</b></details>
+
+<details>
+<summary>What each of the following commands does?
+
+  * cd /
+  * cd ~
+  * cd
+  * cd ..
+  * cd .
+  * cd -
+</summary><br><b>
+
+  * cd / -> change to the root directory
+  * cd ~ -> change to your home directory
+  * cd -> change to your home directory
+  * cd .. -> change to the directory above your current i.e parent directory
+  * cd . -> change to the directory you currently in
+  * cd - -> change to the last visited path
+</b></details>
+
+<details>
+<summary>How to rename the name of a file or a directory?</summary><br><b>
+
+Using the `mv` command.
+</b></details>
+
+<details>
+<summary>Specify which command would you use (and how) for each of the following scenarios 
+
+  * Remove a directory with files
+  * Display the content of a file
+  * Provides access to the file /tmp/x for everyone
+  * Change working directory to user home directory
+  * Replace every occurrence of the word "good" with "great" in the file /tmp/y</summary><br><b>
+</b></details>
+
+<details>
+<summary>How can you check what is the path of a certain command?</summary><br><b>
+
+  * whereis
+  * which
+</b></details>
+
+<details>
+<summary>Explain redirection</summary><br><b>
+</b></details>
+
+<details>
 <summary>Explain piping. How do you perform piping?</summary><br><b>
 
 Using a pipe in Linux, allows you to send the output of one to another (also called redirection). For example: `cat /etc/services | wc -l`
+</b></details>
+
+<details>
+<summary>Fix the following commands:
+
+  * sed "s/1/2/g' /tmp/myFile
+  * find . -iname \*.yaml -exec sed -i "s/1/2/g" {} ;
+
+  </summary><br><b>
+</b>
+<code>sed 's/1/2/g' /tmp/myFile</code><br>
+<code> find . -iname "*.yaml" -exec sed -i "s/1/2/g" {} \; </code>
+</details>
+
+#### Linux FHS
+
+<details>
+<summary>In Linux FHS (Filesystem Hierarchy Standard) what is the <code>/</code>?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is stored in each of the following paths?
+
+  * /bin, /sbin, /usr/bin and /usr/sbin
+  * /etc
+  * /home
+  * /var
+  * /tmp</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is special about the /tmp directory when compared to other directories?</summary><br><b>
+
+`/tmp` folder get cleaned automatically, usually upon reboot.
+</b></details>
+
+<details>
+<summary>What kind of information one can find in /proc?</summary><br><b>
+</b></details>
+
+<details>
+<summary>Can you create files in /proc?</summary><br><b>
+</b></details>
+
+<details>
+<summary>In which path can you find the system devices (e.g. block storage)?</summary><br><b>
 </b></details>
 
 <details>
@@ -2478,7 +2728,7 @@ Alternatively if you are using a distro with systemd it's recommended to use sys
 history command or .bash_history file
 </b></details>
 
-##### Permissions
+#### Linux Permissions
 
 <details>
 <summary>How to change the permissions of a file?</summary><br><b>
@@ -2520,9 +2770,9 @@ Its a bit that only allows the owner or the root user to delete or modify the fi
 <details>
 <summary>What the following commands do?
 
-  * chmod
-  * chown
-  * chgrp</summary><br><b>
+  - chmod
+  - chown
+  - chgrp</summary><br><b>
 
   * chmod - changes access permissions to files system objects
   * chown - changes the owner of file system files and directories
@@ -2530,12 +2780,131 @@ Its a bit that only allows the owner or the root user to delete or modify the fi
 </b></details>
 
 <details>
-<summary>You try to delete a file but it fails. Name at least three different reason as to why it could happen</summary><br><b>
+<summary>What is sudo? How do you set it up?</summary><br><b>
+</b></details>
+
+<details>
+<summary>True or False? In order to install packages on the system one must be the root user or use the sudo command</summary><br><b>
+
+True
+</b></details>
+
+<details>
+<summary>Explain what are ACLs. For what use cases would you recommend to use them?</summary><br><b>
+</b></details>
+
+<details>
+<summary>You try to create a file but it fails. Name at least three different reason as to why it could happen</summary><br><b>
 
 * No more disk space
 * No more inodes
 * No permissions
 </b></details>
+
+#### Linux Shell Scripting
+
+<details>
+<summary>What this line in scripts mean?: <code>#!/bin/bash</code></summary><br><b>
+
+
+`#!/bin/bash` is She-bang
+
+/bin/bash is the most common shell used as default shell for user login of the linux system. The shell’s name is an acronym for Bourne-again shell. Bash can execute the vast majority of scripts and thus is widely used because it has more features, is well developed and better syntax.
+
+</b></details>
+
+<details>
+<summary>True or False?: when a certain command/line fails, the script, by default, will exit and will no keep running</summary><br><b>
+
+Depends on the language and settings used.
+When a script written in Bash fails to run a certain command it will keep running and will execute all other commands mentioned after the command which failed.
+Most of the time we would actually want the opposite to happen. In order to make Bash exist when a specific command fails, use 'set -e' in your script.
+</b></details>
+
+<details>
+<summary>Explain what would be the result of each command:
+
+  * <code>echo $0</code>
+  * <code>echo $?</code>
+  * <code>echo $$</code>
+  * <code>echo $@</code>
+  * <code>echo $#</code></summary><br><b>
+</b></details>
+
+<details>
+<summary>How do you debug shell scripts?</summary><br><b>
+
+Answer depends on the language you are using for writing your scripts. If Bash is used for example then:
+
+  * Adding -x to the script I'm running in Bash
+  * Old good way of adding echo statements
+
+If Python, then using pdb is very useful.
+</b></details>
+
+<details>
+<summary>How do you get input from the user in shell scripts?</summary><br><b>
+
+Using the keyword <code>read</code> so for example <code>read x</code> will wait for user input and will store it in the variable x.
+</b></details>
+
+<details>
+<summary>Explain <code>continue</code> and <code>break</code>. When do you use them if at all?</summary><br><b>
+</b></details>
+
+
+<details>
+<summary>Running the following bash script, we don't get 2 as a result, why?
+
+```
+x = 2
+echo $x
+```
+</summary><br><b>
+
+Should be `x=2`
+</b></details>
+
+<details>
+<summary>How to store the output of a command in a variable?</summary><br><b>
+</b></details>
+
+<details>
+<summary>How do you check variable length?</summary><br><b>
+</b></details>
+
+
+<details>
+<summary>Explain the following code:
+
+<code>:(){ :|:& };:</code>
+
+</summary><br><b>
+</b></details>
+
+<details>
+<summary>Can you give an example to some Bash best practices?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is the ternary operator? How do you use it in bash?</summary><br><b>
+
+A short way of using if/else. An example:
+
+[[ $a = 1 ]] && b="yes, equal" || b="nope"
+</b></details>
+
+<details>
+<summary>What does the following code do and when would you use it?
+
+<code>diff <(ls /tmp) <(ls /var/tmp)</code>
+
+</summary><br>
+It is called 'process substitution'. It provides a way to pass the output of a command to another command when using a pipe <code>|</code> is not possible. It can be used when a command does not support <code>STDIN</code> or you need the output of multiple commands.
+https://superuser.com/a/1060002/167769
+</details>
+
+#### Linux systemd
 
 <details>
 <summary>What is systemd?</summary><br>
@@ -2625,14 +2994,6 @@ tail -f <file_name>
 
 <details>
 <summary>How to debug binaries?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What kind of information one can find in /proc?</summary><br><b>
-</b></details>
-
-<details>
-<summary>Can you create files in /proc?</summary><br><b>
 </b></details>
 
 <details>
@@ -2728,10 +3089,6 @@ It means that the key of the remote host was changed and doesn't match the one t
 <summary>What is SSH port forwarding?</summary><br><b>
 </b></details>
 
-<details>
-<summary>Explain redirection</summary><br><b>
-</b></details>
-
 #### Linux - Globbing, Wildcards
 
 <details>
@@ -2757,8 +3114,8 @@ It means that the key of the remote host was changed and doesn't match the one t
 <details>
 <summary>What each of the following matches
 
-  * ?
-  * *</summary><br><b>
+  - ?
+  - *</summary><br><b>
 
   * The ? matches any single character
   * The * matches zero or more characters
@@ -2844,14 +3201,20 @@ related to the file like its size, owner, permissions, etc.
   * File size
   * File name
   * File timestamp</summary><br><b>
+
+File name (it's part of the directory file)
 </b></details>
 
 <details>
 <summary>How to check which disks are currently mounted?</summary><br><b>
+
+Run `mount`
 </b></details>
 
 <details>
-<summary>You run mount command but you get no output. How would you check what mounts you have on your system?</summary><br><b>
+<summary>You run the <code>mount</code> command but you get no output. How would you check what mounts you have on your system?</summary><br><b>
+
+`cat /proc/mounts`
 </b></details>
 
 <details>
@@ -2889,6 +3252,7 @@ There are many answers for this question. One way is running `df -T`
 
 <details>
 <summary>How to create a
+
   * new empty file
   * a file with text (without using text editor)
   * a file with given size</summary><br><b>
@@ -2905,7 +3269,7 @@ There are many answers for this question. One way is running `df -T`
 </b></details>
 
 <details>
-<summary>What do you know about LVM?</summary><br><b>
+<summary>What is LVM?</summary><br><b>
 </b></details>
 
 <details>
@@ -2914,6 +3278,8 @@ There are many answers for this question. One way is running `df -T`
   * PV
   * VG
   * LV</summary><br><b>
+
+
 </b></details>
 
 <details>
@@ -2937,22 +3303,10 @@ There are many answers for this question. One way is running `df -T`
 </b></details>
 
 <details>
-<summary>Fix the following commands:
-
-  * sed "s/1/2/g' /tmp/myFile
-  * find . -iname \*.yaml -exec sed -i "s/1/2/g" {} ;
-
-  </summary><br><b>
-</b>
-<code>sed 's/1/2/g' /tmp/myFile</code><br>
-<code> find . -iname "*.yaml" -exec sed -i "s/1/2/g" {} \; </code>
-</details>
-
-<details>
-<summary>What is stored in each of the following logs?</summary><br><b>
+<summary>What is stored in each of the following logs?
 
   * /var/log/messages
-  * /var/log/boot.log
+  * /var/log/boot.log</summary><br><b>
 </b></details>
 
 <details>
@@ -3116,6 +3470,10 @@ It is the first process executed by the kernel during the booting of a system. I
 </b></details>
 
 <details>
+<summary>Can you describe how processes are being created?</summary><br><b>
+</b></details>
+
+<details>
 <summary>How to change the priority of a process? Why would you want to do that?</summary><br><b>
 </b></details>
 
@@ -3151,6 +3509,7 @@ Kerberos
 File descriptor, also known as file handler, is a unique number which identifies an open file in the operating system.
 
 In Linux (and Unix) the first three file descriptors are:
+
   * 0 - the default data stream for input
   * 1 - the default data stream for output
   * 2 - the default data stream for output related to errors
@@ -3196,10 +3555,16 @@ This is a great article on the topic: https://www.computerhope.com/jargon/f/file
 
 <details>
 <summary>How to list all the interfaces?</summary><br><b>
+
+```
+ip link show
+```
 </b></details>
 
 <details>
 <summary>What is the loopback (lo) interface?</summary><br><b>
+
+The loopback interface is a special, virtual network interface that your computer uses to communicate with itself. It is used mainly for diagnostics and troubleshooting, and to connect to servers running on the local machine.
 </b></details>
 
 <details>
@@ -3255,7 +3620,8 @@ Technically, yes.
   * SMTP
   * HTTP
   * DNS
-  * HTTPS</summary><br><b>
+  * HTTPS
+</summary><br><b>
 
   * SSH - 22
   * SMTP - 35
@@ -3266,6 +3632,9 @@ Technically, yes.
 
 <details>
 <summary>What is telnet and why is it a bad idea to use it in production? (or at all)</summary><br><b>
+
+Telnet is a type of client-server protocol that can be used to open a command line on a remote computer, typically a server.
+By default, all the data sent and received via telnet is transmitted in clear/plain text, therefore it should not be used as it does not encrypt any data between the client and the server.
 </b></details>
 
 <details>
@@ -3482,10 +3851,6 @@ Re-install the OS IS NOT the right answer :)
 </b></details>
 
 <details>
-<summary>What is sudo? How do you set it up?</summary><br><b>
-</b></details>
-
-<details>
 <summary>What is /etc/skel?</summary><br><b>
 </b></details>
 
@@ -3504,7 +3869,7 @@ Using the `last` command.
   * id</summary><br><b>
 </b></details>
 
-#### Linux - Hardware
+#### Linux Hardware
 
 <details>
 <summary>Where can you find information on the processor?</summary><br><b>
@@ -3603,24 +3968,12 @@ From Wikipedia: "AWK is domain-specific language designed for text processing an
 `awk 'length($0) > 79' file`
 </b></details>
 
-#### Linux - Commands
-
 <details>
 <summary>What the <code>lsof</code> command does? Have you used it? What for?</summary><br><b>
 </b></details>
 
 <details>
-<summary>What commands you can use for searching files and/or directories?</summary><br><b>
-
-  * find
-  * locate
-</b></details>
-
-<details>
-<summary>How can you check what is the path of a certain command?</summary><br><b>
-
-  * whereis
-  * which
+<summary>What is the difference between find and locate?</summary><br><b>
 </b></details>
 
 #### System Calls
@@ -3712,10 +4065,6 @@ There are a couple of ways to do that:
 </b></details>
 
 <details>
-<summary>Can you describe how processes are being created?</summary><br><b>
-</b></details>
-
-<details>
 <summary>What does the following block do?:
 
 ```
@@ -3801,10 +4150,6 @@ MemAvailable - The amount of available memory for new workloads (without pushing
 </b></details>
 
 <details>
-<summary>What is virtual memory?</summary><br><b>
-</b></details>
-
-<details>
 <summary>What is the difference between paging and swapping?</summary><br><b>
 </b></details>
 
@@ -3831,7 +4176,7 @@ MemAvailable - The amount of available memory for new workloads (without pushing
 * Software/Packages Management
 </b></details>
 
-#### Linux Advanced - Misc
+#### Linux Misc
 
 <details>
 <summary>Wildcards are implemented on user or kernel space?</summary><br><b>
@@ -3847,6 +4192,18 @@ MemAvailable - The amount of available memory for new workloads (without pushing
 <summary>Why there are different sections in man? What is the difference between the sections?</summary><br><b>
 </b></details>
 
+<details>
+<summary>What is User-mode Linux?</summary><br><b>
+</b></details>
+
+#### Linux Nerds
+
+<details>
+<summary>Under which license Linux is distributed? </summary><br><b>
+
+GPL v2
+</b></details>
+
 ## Operating System
 
 <details>
@@ -3855,6 +4212,18 @@ MemAvailable - The amount of available memory for new workloads (without pushing
 There are many ways to answer that. For those who look for simplicity, the book "Operating Systems: Three Easy Pieces" offers nice version:
 
 "responsible for making it easy to run programs (even allowing you to seemingly run many at the same time), allowing programs to share memory, enabling programs to interact with devices, and other fun stuff like that"
+</b></details>
+
+<details>
+<summary>What is "virtual memory" and what purpose it serves?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is demand paging?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is copy-on-write or shadowing?</summary><br><b>
 </b></details>
 
 <details>
@@ -3945,7 +4314,45 @@ Cache: Cache is usually used when processes reading and writing to the disk to m
 ## Virtualization
 
 <details>
-<summary>Explain what is Virtualization</summary><br><b>
+<summary>What is Virtualization?</summary><br><b>
+
+Virtualization uses software to create an abstraction layer over computer hardware that allows the hardware elements of a single computer—processors, memory, storage and more - to be divided into multiple virtual computers, commonly called virtual machines (VMs).
+</b></details>
+
+<details>
+<summary>What is a hypervisor?</summary><br><b>
+
+Red Hat: "A hypervisor is software that creates and runs virtual machines (VMs). A hypervisor, sometimes called a virtual machine monitor (VMM), isolates the hypervisor operating system and resources from the virtual machines and enables the creation and management of those VMs."
+
+Read more [here](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor)
+</b></details>
+
+<details>
+<summary>What types of hypervisors are there?</summary><br><b>
+
+Hosted hypervisors and bare-metal hypervisors.
+</b></details>
+
+<details>
+<summary>What are the advantages and disadvantges of bare-metal hypervisor over a hosted hypervisor?</summary><br><b>
+
+Due to having its own drivers and a direct access to hardware components, a baremetal hypervisor will often have better performances along with stability and scalability.
+
+On the other hand, there will probably be some limitation regarding loading (any) drivers so a hosted hypervisor will usually benefit from having a better hardware compatibility.
+</b></details>
+
+<details>
+<summary>What types of virtualization are there?</summary><br><b>
+
+Operating system virtualization
+Network functions virtualization
+Desktop virtualization
+</b></details>
+
+<details>
+<summary>Is containerization is a type of Virtualization?</summary><br><b>
+
+Yes, it's a operating-system-level virtualization, where the kernel is shared and allows to use multiple isolated user-spaces instances.
 </b></details>
 
 <details>
@@ -3970,7 +4377,8 @@ It's used by one entity until this entity decides to get rid of it. Take for exa
   * Module
   * Play
   * Playbook
-  * Role</summary><br><b>
+  * Role
+</summary><br><b>
 
 Task – a call to a specific Ansible module
 Module – the actual unit of code executed by Ansible on your own host or a remote host. Modules are indexed by category (database, file, network, …) and also referred to as task plugins.
@@ -4512,10 +4920,14 @@ Output variables are named values that are sourced from the attributes of a modu
 
 <details>
 <summary>Explain Modules</summary>
+
+A Terraform module is a set of Terraform configuration files in a single directory. Modules are small, reusable Terraform configurations that let you manage a group of related resources as if they were a single resource. Even a simple configuration consisting of a single directory with one or more .tf files is a module. When you run Terraform commands directly from such a directory, it is considered the root module. So in this sense, every Terraform configuration is part of a module.
 </b></details>
 
 <details>
 <summary>What is the Terraform Registry?</summary><br><b>
+
+The Terraform Registry provides a centralized location for official and community-managed providers and modules.
 </b></details>
 
 <details>
@@ -4554,18 +4966,29 @@ Output variables are named values that are sourced from the attributes of a modu
 
 ## Containers
 
+### Containers Exercises
+
+|Name|Topic|Objective & Instructions|Solution|Comments|
+|--------|--------|------|----|----|
+|My First Dockerfile|Dockerfile|[Link](exercises/write_dockerfile_run_container.md)|[Link](exercises/write_dockerfile_run_container.md)
+
+
+### Containers Self Assesment
+
 <details>
 <summary>What is a Container? What is it used for?</summary><br><b>
+
+Containers are a form of operating system virtualization. A single container might be used to run anything from a small microservice or software process to a larger application. Inside a container are all the necessary executables, binary code, libraries, and configuration files, making them easy to ship and run with same expected results on different machines.
 </b></details>
 
 <details>
 <summary>How are containers different from virtual machines (VMs)?</summary><br><b>
 
 The primary difference between containers and VMs is that containers allow you to virtualize
-multiple workloads on the operating system while in the case of VMs the hardware is being virtualized to
-run multiple machines each with its own OS.
+multiple workloads on the operating system while in the case of VMs the hardware is being virtualized to run multiple machines each with its own OS.
+You can also think about it as containers are for OS-level virtualization while VMs are for hardware virtualization.
 
-* Containers don't require an entire guest operating system as VMs
+* Containers don't require an entire guest operating system as VMs. Containers share the system's kernel as opposed to VMs
 * It usually takes a few seconds to set up a container as opposed to VMs which can take minutes or at least more time than containers as there is an entire OS to boot and initialize as opposed to container where you mainly lunch the app itself
 * Containers are isolated from each other, but not as concretely as virtual machines. It is possible for a malicious user to break into the host OS from a container and vice versa.
 </b></details>
@@ -4791,6 +5214,18 @@ Because each container has its own writable container layer, and all changes are
 
 <a name="kubernetes"></a>
 
+### Kubernetes Exercises
+
+#### Developer & Regular User Path
+
+|Name|Topic|Objective & Instructions|Solution|Comments|
+|--------|--------|------|----|----|
+| My First Pod | Pods | [Exercise](exercises/kubernetes/pods_01.md) | [Solution](exercises/kubernetes/solutions/pods_01_solution.md)
+| Creating a service | Service | [Exercise](exercises/kubernetes/services_01.md) | [Solution](exercises/kubernetes/solutions/services_01_solution.md)
+
+
+### Kubernetes Self Assesment
+
 <details>
 <summary>What is Kubernetes? Why organizations are using it?</summary><br><b>
 
@@ -4811,6 +5246,10 @@ Red Hat Definition: "A Kubernetes cluster is a set of node machines for running 
 At a minimum, a cluster contains a worker node and a master node."
 
 Read more [here](https://www.redhat.com/en/topics/containers/what-is-a-kubernetes-cluster)
+</b></details>
+
+<details>
+<summary>When or why NOT to use Kubernetes?</summary><br><b>
 </b></details>
 
 #### Kubernetes Nodes
@@ -4875,6 +5314,12 @@ False. A Kubernetes cluster consists of at least 1 master and can have 0 workers
 
 <details>
 <summary>Explain what is a pod</summary><br><b>
+</b></details>
+
+<details>
+<summary>Deploy a pod called "my-pod" using the nginx:alpine image</summary><br><b>
+
+`kubectl run my-pod --image=nginx:alpine --restart=Never`
 </b></details>
 
 <details>
@@ -4951,13 +5396,25 @@ Another way is using the deployment configuration file: `kubectl delete -f deplo
 The pod related to the deployment will terminate and the replicaset will be removed.
 </b></details>
 
+<details>
+<summary>How make an app accessible on private or external network?</summary><br><b>
+
+Using a Service.
+</b></details>
+
 #### Kubernetes Service
 
 <details>
 <summary>What is a Service in Kubernetes?</summary><br><b>
-"An abstract way to expose an application running on a set of Pods as a network service." - more [here](https://kubernetes.io/docs/concepts/services-networking/service)
+"An abstract way to expose an application running on a set of Pods as a network service." - read more [here](https://kubernetes.io/docs/concepts/services-networking/service)
 
-Note: Even if connected to a pod, their lifecycles aren't connected.
+In simpler words, it allows you to expose the service by attaching permanent IP address for example to a certain pod.
+</b></details>
+
+<details>
+<summary>True or False? The lifecycle of Pods and Services isn't connected so when a pod dies, the service still stays </summary><br><b>
+
+True
 </b></details>
 
 <details>
@@ -5740,7 +6197,25 @@ False
 * Delete
 </b></details>
 
+#### Kubernetes Access Control
+
+<details>
+<summary>What is RBAC?</summary><br><b>
+</b></details>
+
+<details>
+<summary>Explain the <code>Role</code> and <code>RoleBinding"</code> objects</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is the difference between <code>Role</code> and <code>ClusterRole</code> objects?</summary><br><b>
+</b></details>
+
 #### Kubernetes Misc
+
+<details>
+<summary>Explain what Kubernetes Service Discovery means</summary><br><b>
+</b></details>
 
 <details>
 <summary>You have one Kubernetes cluster and multiple teams that would like to use it. You would like to limit the resources each team consumes in the cluster. Which Kubernetes concept would you use for that?</summary><br><b>
@@ -5825,10 +6300,6 @@ Use "--grace-period=0 --force"
 </b></details>
 
 <details>
-<summary>What is RBAC?</summary><br><b>
-</b></details>
-
-<details>
 <summary> How does scheduling work in kubernetes?</summary><br><b>
 
 The control plane component kube-scheduler asks the following questions,
@@ -5873,13 +6344,15 @@ View more [here](https://www.youtube.com/watch?v=rDCWxkvPlAw)
 <details>
 <summary>What is Helm?</summary><br><b>
 
-Package manager for Kubernetes. Basically the ability to package YAML files and distribute them to other users.
+Package manager for Kubernetes. Basically the ability to package YAML files and distribute them to other users and apply them in different clusters.
 </b></details>
 
 <details>
 <summary>Why do we need Helm? What would be the use case for using it?</summary><br><b>
 
-Sometimes when you would like to deploy a certain application to your cluster, you need to create multiple YAML files / Components like: Secret, Service, ConfigMap, etc. This can be tedious task. So it would make sense to ease the process by introducing something that will allow us to share these bundle of YAMLs every time we would like to add an application to our cluster. This something is called Helm.
+Sometimes when you would like to deploy a certain application to your cluster, you need to create multiple YAML files/components like: Secret, Service, ConfigMap, etc. This can be tedious task. So it would make sense to ease the process by introducing something that will allow us to share these bundle of YAMLs every time we would like to add an application to our cluster. This something is called Helm.
+
+A common scenario is having multiple Kubernetes clusters (prod, dev, staging). Instead of individually applying different YAMLs in each cluster, it makes more sense to create one Chart and install it in every cluster.
 </b></details>
 
 <details>
@@ -6068,10 +6541,6 @@ True
 
 <details>
 <summary>Explain big O notation</summary><br><b>
-</b></details>
-
-<details>
-<summary>What is "Duck Typing"?</summary><br><b>
 </b></details>
 
 <details>
@@ -6446,6 +6915,8 @@ class MyClass(object):
 ```
 </b></details>
 
+#### Python - Exceptions
+
 <details>
 <summary>What is an error? What is an exception? What types of exceptions are you familiar with?</summary><br><b>
 
@@ -6533,6 +7004,20 @@ while True:
 
 For more details about errors and exceptions follow this [https://docs.python.org/3/tutorial/errors.html](https://docs.python.org/3/tutorial/errors.html)
 
+</b></details>
+
+<details>
+<summary>What is the result of running the following function?
+
+```
+def true_or_false():
+    try:
+        return True
+    finally:
+        return False
+```
+</summary><br><b>
+False
 </b></details>
 
 #### Python Built-in functions
@@ -6667,9 +7152,29 @@ print("{0:.3f}".format(sum(li)/len(li)))
 #### Python Lists
 
 <details>
+<summary>How to add the number 2 to the list <code>x = [1, 2, 3]</code></summary><br><b>
+
+`x.append(2)`
+</b></details>
+
+<details>
+<summary>How to check how many items a list contains?</summary><br><b>
+
+`len(sone_list)`
+</b></details>
+
+<details>
+<summary>How to get the last element of a list?</summary><br><b>
+
+`some_list[-1]`
+</b></details>
+
+<details>
 <summary>How to add the items of [1, 2, 3] to the list [4, 5, 6]?</summary><br><b>
 x = [4, 5, 6]
 x.extend([1, 2, 3])
+
+Don't use `append` unless you would like the list as one item.
 </b></details>
 
 <details>
@@ -6679,12 +7184,11 @@ x.extend([1, 2, 3])
 </b></details>
 
 <details>
-<summary>How do you get the maximum and minimum values from a list? How to get the last item from a list?</summary><br><b>
+<summary>How do you get the maximum and minimum values from a list?</summary><br><b>
 
 ```
 Maximum: max(some_list)
 Minimum: min(some_list)
-Last item: some_list[-1]
 ```
 </b></details>
 
@@ -6826,6 +7330,42 @@ If we call it 3 times, what would be the result each call?
 ['hmm']
 ['hmm', 'hmm']
 ['hmm', 'hmm', 'hmm']
+```
+</b></details>
+
+
+<details>
+<summary>How to iterate over a list?</summary><br><b>
+
+```
+for item in some_list:
+    print(item)
+```
+</b></details>
+
+<details>
+<summary>How to iterate over a list with indexes?</summary><br><b>
+
+```
+for i, item in enumerate(some_list):
+    print(i)
+```
+</b></details>
+
+<details>
+<summary>How to start list iteration from 2nd index?</summary><br><b>
+
+Using range like this
+
+```
+for i in range(1, len(some_list)):
+    some_list[i]
+```
+
+Another way is using slicing
+
+```
+for i in some_list[1:]:
 ```
 </b></details>
 
@@ -7009,6 +7549,17 @@ with open('file.txt', 'w') as file:
 <summary>Can you write a function which will print all the file in a given directory? including sub-directories</summary><br><b>
 </b></details>
 
+<details>
+<summary>Write a dictionary (variable) to a file</summary><br><b>
+
+```
+import json
+
+with open('file.json', 'w') as f:
+    f.write(json.dumps(dict_var))
+```
+</b></details>
+
 #### Python OS
 
 <details>
@@ -7083,6 +7634,18 @@ Using the re module
 
 <details>
 <summary>Find the first repeated character in a string</summary><br><b>
+
+While you iterate through the characters, store them in a dictionary and check for every character whether it's already in the dictionary.
+
+```
+def firstRepeatedCharacter(str):
+    chars = {}
+    for ch in str:
+        if ch in chars:
+            return ch
+        else:
+            chars[ch] = 0
+```
 </b></details>
 
 <details>
@@ -7194,6 +7757,14 @@ def reverse_string(string):
 mario
 </b></details>
 
+#### Python Iterators
+
+<details>
+<summary>What is an iterator?</summary><br><b>
+</b></details>
+
+#### Python Misc
+
 <details>
 <summary>Explain data serialization and how do you perform it with Python</summary><br><b>
 </b></details>
@@ -7203,11 +7774,19 @@ mario
 </b></details>
 
 <details>
-<summary>What is an iterator?</summary><br><b>
+<summary>What is a generator? Why using generators?</summary><br><b>
 </b></details>
 
 <details>
-<summary>What is a generator? Why using generators?</summary><br><b>
+<summary>What would be the output of the following block?
+
+```
+for i in range(3, 3):
+   print(i)
+```
+</summary><br><b>
+
+No output :)
 </b></details>
 
 <details>
@@ -7845,6 +8424,8 @@ True
 
 <details>
 <summary>Explain monitoring. What is it? What its goal?</summary><br><b>
+
+Google: "Monitoring is one of the primary means by which service owners keep track of a system’s health and availability".
 </b></details>
 
 <details>
@@ -7933,6 +8514,11 @@ Alert manager is responsible for alerts ;)
 </b></details>
 
 ## Git
+
+|Name|Topic|Objective & Instructions|Solution|Comments|
+|--------|--------|------|----|----|
+| My first Commit | Commit | [Exercise](exercises/git/commit_01.md) | [Solution](exercises/git/solutions/commit_01_solution.md) | |
+| Time to Branch | Branch | [Exercise](exercises/git/branch_01.md) | [Solution](exercises/git/solutions/branch_01_solution.md) | |
 
 <details>
 <summary>How do you know if a certain directory is a git repository?</summary><br><b>
@@ -8536,17 +9122,7 @@ Bones question: What is the random seek time in SSD and Magnetic Disk?
 Answer: Magnetic is about 10ms and SSD is somewhere between 0.08 and 0.16ms
 </b></details>
 
-## Shell Scripting
-
-<details>
-<summary>What this line in scripts mean?: <code>#!/bin/bash</code></summary><br><b>
-
-
-`#!/bin/bash` is She-bang
-
-/bin/bash is the most common shell used as default shell for user login of the linux system. The shell’s name is an acronym for Bourne-again shell. Bash can execute the vast majority of scripts and thus is widely used because it has more features, is well developed and better syntax.
-
-</b></details>
+## Scripts
 
 <details>
 <summary>What do you tend to include in every script you write?</summary><br><b>
@@ -8554,59 +9130,26 @@ Answer: Magnetic is about 10ms and SSD is somewhere between 0.08 and 0.16ms
 Few example:
 
   * Comments on how to run it and/or what it does
-  * Adding "set -e" since I want the script to exit if a certain command failed
+  * If a shell script, adding "set -e" since I want the script to exit if a certain command failed
 
-You can have an entirely different answer. It's based only on your experience.
+You can have an entirely different answer. It's based only on your experience and preferences.
 </b></details>
 
 <details>
-<summary>True or False?: when a certain command/line fails, the script, by default, will exit and will no keep running</summary><br><b>
-
-Depends on the language and settings used.
-When a script written in Bash fails to run a certain command it will keep running and will execute all other commands mentioned after the command which failed.
-Most of the time we would actually want the opposite to happen. In order to make Bash exist when a specific command fails, use 'set -e' in your script.
-</b></details>
-
-<details>
-<summary>Today we have tools and technologies like Ansible. Why would someone still use shell scripting?</summary><br><b>
+<summary>Today we have tools and technologies like Ansible. Why would someone still use scripting?</summary><br><b>
 
   * Speed
-  * The module we need doesn't exist
+  * Flexibility
+  * The module we need doesn't exist (perhaps a weak point because most CM technologies allow to use what is known as "shell" module)
   * We are delivering the scripts to customers who don't have access to the public network and don't necessarily have Ansible installed on their systems.
 </b></details>
 
-<details>
-<summary>Explain what would be the result of each command:
 
-  * <code>echo $0</code>
-  * <code>echo $?</code>
-  * <code>echo $$</code>
-  * <code>echo $@</code>
-  * <code>echo $#</code></summary><br><b>
-</b></details>
-
-<details>
-<summary>How do you debug shell scripts?</summary><br><b>
-
-Answer depends on the language you are using for writing your scripts. If Bash is used for example then:
-
-  * Adding -x to the script I'm running in Bash
-  * Old good way of adding echo statements
-
-If Python, then using pdb is very useful.
-</b></details>
-
-<details>
-<summary>How do you get input from the user in shell scripts?</summary><br><b>
-
-Using the keyword <code>read</code> so for example <code>read x</code> will wait for user input and will store it in the variable x.
-</b></details>
+#### Scripts Fundamentals
 
 <details>
 <summary>Explain conditionals and how do you use them</summary><br><b>
 </b></details>
-
-#### Shell Scripting - Loops
 
 <details>
 <summary>What is a loop? What types of loops are you familiar with?</summary><br><b>
@@ -8616,32 +9159,9 @@ Using the keyword <code>read</code> so for example <code>read x</code> will wait
 <summary>Demonstrate how to use loops</summary><br><b>
 </b></details>
 
-<details>
-<summary>Explain <code>continue</code> and <code>break</code>. When do you use them if at all?</summary><br><b>
-</b></details>
+#### Writing Scripts
 
-
-<details>
-<summary>Running the following bash script, we don't get 2 as a result, why?
-
-```
-x = 2
-echo $x
-```
-</summary><br><b>
-
-Should be `x=2`
-</b></details>
-
-<details>
-<summary>How to store the output of a command in a variable?</summary><br><b>
-</b></details>
-
-<details>
-<summary>How do you check variable length?</summary><br><b>
-</b></details>
-
-##### Practical
+Note: write them in any language you prefer
 
 <details>
 <summary>Write a script which will list the differences between two directories</summary><br><b>
@@ -8663,7 +9183,6 @@ then
    mailx -s "Server $SERVERIP is down" -t "$NOTIFYEMAIL" < /dev/null
 fi
 ```
-
 </b></details>
 
 <details>
@@ -8682,39 +9201,7 @@ do
     fi
 done
 ```
-
 </b></details>
-
-<details>
-<summary>Explain the following code:
-
-<code>:(){ :|:& };:</code>
-
-</summary><br><b>
-</b></details>
-
-<details>
-<summary>Can you give an example to some Bash best practices?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What is the ternary operator? How do you use it in bash?</summary><br><b>
-
-A short way of using if/else. An example:
-
-[[ $a = 1 ]] && b="yes, equal" || b="nope"
-</b></details>
-
-<details>
-<summary>What does the following code do and when would you use it?
-
-<code>diff <(ls /tmp) <(ls /var/tmp)</code>
-
-</summary><br>
-It is called 'process substitution'. It provides a way to pass the output of a command to another command when using a pipe <code>|</code> is not possible. It can be used when a command does not support <code>STDIN</code> or you need the output of multiple commands.
-https://superuser.com/a/1060002/167769
-</details>
-
 
 ## SQL
 
@@ -9651,7 +10138,7 @@ A list of services and their endpoints
 ## Security
 
 <details>
-<summary>Can you describe the DevSecOps core principals? (or what is DevSecOps)</summary><br><b>
+<summary>What is DevSecOps? What its core principals?</summary><br><b>
 </b></details>
 
 <details>
@@ -9699,7 +10186,13 @@ Access control based on user roles (i.e., a collection of access authorizations 
 
 </b></details>
 
-## Security SSH
+## Security - Web
+
+<details>
+<summary>What is Nonce?</summary><br><b>
+</b></details>
+
+## Security - SSH
 
 <details>
 <summary>What is SSH how does it work?</summary><br><b>
@@ -10427,7 +10920,13 @@ DNS uses UDP port 53 for resolving queries either regular or reverse. DNS uses T
 </b></details>
 
 <details>
-<summary>What is Round Robin DNS?</summary><br><b>
+<summary>True or False? DNS can be used for load balancing</summary><br><b>
+
+True.
+</b></details>
+
+<details>
+<summary>Which techniques a DNS can use for load balancing?</summary><br><b>
 </b></details>
 
 <details>
@@ -10500,10 +10999,10 @@ It's an architecture in which data is and retrieved from a single, non-shared, s
 <summary>Explain the Sidecar Pattern (Or sidecar proxy)</summary><br><b>
 </b></details>
 
-## General
+## Misc
 
 <details>
-<summary>What is a server?</summary><br><b>
+<summary>What is a server? What is a client?</summary><br><b>
 
 A computer which serves data from itself to the client.
 </b></details>
@@ -10514,6 +11013,13 @@ A computer which serves data from itself to the client.
 I like this definition from [here](https://blog.christianposta.com/microservices/api-gateways-are-going-through-an-identity-crisis):
 
 "An explicitly and purposefully defined interface designed to be invoked over a network that enables software developers to get programmatic access to data and functionality within an organization in a controlled and comfortable way."
+</b></details>
+
+<details>
+<summary>What is Automation? How it's related or different from Orchestration?</summary><br><b>
+
+Automation is the act of automating tasks to reduce human intervention or interaction in regards to IT technology and systems.<br>
+While automation focuses on a task level, Orchestration is the process of automating processes and/or workflows which consists of multiple tasks that usually across multiple systems.
 </b></details>
 
 <details>
@@ -10776,14 +11282,40 @@ The server didn't receive a response from another server it communicates with in
 <summary>When you publish a project, you usually publish it with a license. What types of licenses are you familiar with and which one do you prefer to use?</summary><br><b>
 </b></details>
 
-#### Load Balancing
+#### Load Balancers
 
 <details>
 <summary>What is a load balancer?</summary><br><b>
+
+A load balancer accepts (or denies) incoming network traffic from a client, and based on some criteria (application related, network, etc.) it distributes those communications out to servers (at least one).
 </b></details>
 
 <details>
-<summary>What load balancer algorithms are you familiar with?</summary><br><b>
+<summary>What benefits load balancers provide?</summary><br><b>
+
+* Scalability - using a load balancer, you can possibly add more servers in the backend to handle more requests/traffic from the clients, as opposed to using one server.
+* Redundancy - if one server in the backend dies, the load balancer will keep forwarding the traffic/requests to the second server so users won't even notice one of the servers in the backend is down.
+</b></details>
+
+<details>
+<summary>What load balancer techniques/algorithms are you familiar with?</summary><br><b>
+
+  * Round Robin
+  * Weighted Round Robin
+  * Least Connection
+  * Weighted Least Connection
+  * Resource Based
+  * Fixed Weighting
+  * Weighted Response Time
+  * Source IP Hash
+  * URL Hash
+</b></details>
+
+<details>
+<summary>What are the drawbacks of round robin algorithm in load balancing?</summary><br><b>
+
+  * A simple round robin algorithm knows nothing about the load and the spec of each server it forwards the requests to. It is possible, that multiple heavy workloads requests will get to the same server while other servers will got only lightweight requests which will result in one server doing most of the work, maybe even crashing at some point because it unable to handle all the heavy workloads requests by its own.
+  * Each request from the client creates a whole new session. This might be a problem for certain scenarios where you would like to perform multiple operations where the server has to know about the result of operation so basically, being sort of aware of the history it has with the client. In round robin, first request might hit server X, while second request might hit server Y and ask to continue processing the data that was processed on server X already.
 </b></details>
 
 <details>
@@ -10791,9 +11323,19 @@ The server didn't receive a response from another server it communicates with in
 </b></details>
 
 <details>
+<summary>In which scenarios would you use ALB?</summary><br><b>
+</b></details>
+
+<details>
 <summary>At what layers a load balancer can operate?</summary><br><b>
 
 L4 and L7
+</b></details>
+
+<details>
+<summary>Can you perform load balancing without using a dedicated load balancer instance?</summary><br><b>
+
+Yes, you can use DNS for performing load balancing.
 </b></details>
 
 <details>
@@ -10813,13 +11355,19 @@ Pros:
 </b></details>
 
 <details>
-<summary>Explain the following load balancing algorithms:
+<summary>Explain each of the following load balancing techniques
 
   * Round Robin
+  * Weighted Round Robin
   * Least Connection
-  * Source IP hash</summary><br><b>
+  * Weighted Least Connection
+  * Resource Based
+  * Fixed Weighting
+  * Weighted Response Time
+  * Source IP Hash
+  * URL Hash
+</summary><br><b>
 </b></details>
-
 
 <details>
 <summary>Explain use case for connection draining?</summary><br><b>
@@ -11108,6 +11656,13 @@ Are you able to explain what is it good for?
 </b></details>
 
 <details>
+<summary>You find out your database became a bottleneck and users experience issues accessing data. How can you deal with such situation?</summary><br><b>
+
+Not much information provided as to why it became a bottleneck and what is current architecture, so one general approach could be<br>
+to reduce the load on your database by moving frequently-accessed data to in-memory structure.
+</b></details>
+
+<details>
 <summary>What is a connection pool?</summary><br><b>
 
 Connection Pool is a cache of database connections and the reason it's used is to avoid an overhead of establishing a connection for every query done to a database.
@@ -11193,11 +11748,7 @@ Bonus: extract the last word of each line
 <summary>Replace 'red' with 'green'</summary><br><b>
 </b></details>
 
-## System Designotebookn
-
-This section contains only questions on System Design subject. The exercises can be found in [system-design-notebook repository](https://github.com/bregman-arie/system-design-notebook).
-
-#### Architecture
+## System Design
 
 <details>
 <summary>Explain what is a "Single point of failure" and give an example</summary><br><b>
@@ -11282,6 +11833,10 @@ Horizontal Scaling is the process of adding more resources that will be able han
 
 A load balancer. You can add more resources, but if you would like them to be part of the process, you have to serve them the requests/responses.
 Also, data inconsistency is a concern with horizontal scaling.
+</b></details>
+
+<details>
+<summary>Explain when in which use cases will you use vertical scaling and in which use cases you will use horizontal scaling</summary><br><b>
 </b></details>
 
 <details>
@@ -11386,18 +11941,30 @@ DNS redirection
 <summary>How would you build a URL shortener?</summary><br><b>
 </b></details>
 
+#### More System Design Questions
+
+Additional exercises can be found in [system-design-notebook repository](https://github.com/bregman-arie/system-design-notebook).
+
+<p align="center"><a href="https://github.com/bregman-arie/system-design-notebook"><img src="images/system_design_notebook.png"/></a></p>
+
 ## Hardware
 
 <details>
 <summary>What is a CPU?</summary><br><b>
+
+A central processing unit (CPU) performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This contrasts with external components such as main memory and I/O circuitry, and specialized processors such as graphics processing units (GPUs).
 </b></details>
 
 <details>
 <summary>What is RAM?</summary><br><b>
+
+RAM (Random Access Memory) is the hardware in a computing device where the operating system (OS), application programs and data in current use are kept so they can be quickly reached by the device's processor. RAM is the main memory in a computer. It is much faster to read from and write to than other kinds of storage, such as a hard disk drive (HDD), solid-state drive (SSD) or optical drive.
 </b></details>
 
 <details>
 <summary>What is an embedded system?</summary><br><b>
+
+An embedded system is a computer system - a combination of a computer processor, computer memory, and input/output peripheral devices—that has a dedicated function within a larger mechanical or electronic system. It is embedded as part of a complete device often including electrical or electronic hardware and mechanical parts. 
 </b></details>
 
 <details>
@@ -11425,6 +11992,9 @@ As defined by Doug Laney:
 
 <details>
 <summary>What is DataOps? How is it related to DevOps?</summary><br><b>
+
+ DataOps seeks to reduce the end-to-end cycle time of data analytics, from the origin of ideas to the literal creation of charts, graphs and models that create value. 
+ DataOps combines Agile development, DevOps and statistical process controls and applies them to data analytics.
 </b></details>
 
 <details>
@@ -11462,6 +12032,10 @@ An answer from [talend.com](https://www.talend.com/resources/what-is-data-archit
 
 <details>
 <summary>What is "Data Versioning"? What models of "Data Versioning" are there?</summary><br><b>
+</b></details>
+
+<details>
+<summary>What is ETL?</summary><br><b>
 </b></details>
 
 #### Apache Hadoop
@@ -11603,46 +12177,6 @@ If you are looking for a way to prepare for a certain exam this is the section f
 #### Kubernetes
 
 * [Certified Kubernetes Administrator (CKA)](certificates/cka.md) (Latest update: 2020)
-
-## Exercises
-
-Exercises are all about:
-
-  * Setting up environments
-  * Writing scripts
-  * Designing and/or developing infrastructure apps
-  * Fixing existing applications
-
-Below you can find several exercises
-
-#### Containers
-* [Writing a Dockerfile and running a container](exercises/write_dockerfile_run_container.md)
-
-#### Jenkins
-
-* [Jenkins: writing scripts](exercises/jenkins_scripts.md)
-* [Jenkins: writing pipelines](exercises/jenkins_pipelines.md)
-
-#### CI
-
-* [CI for open source project](exercises/ci_for_open_source_project.md)
-
-#### Programming
-
-* [grep before and after](exercises/programming/grep_berfore_and_after.md)
-* [web scrapper](exercises/programming/web_scraper.md)
-
-#### Mixed
-
-* [Flask, Containers and CI](exercises/flask_container_ci/README.md)
-* [Flask, Containers and CI 2](exercises/flask_container_ci2/README.md)
-
-#### Misc
-
-* [Elasticsearch & Kibana on AWS](exercises/misc/elk_kibana_aws.md)
-* [ELK & Filebeat](exercises/eflk.md)
-* [Ansible, Minikube and Docker](exercises/ansible_minikube_docker.md)
-* [Cloud Slack bot](exercises/cloud_slack_bot.md)
 
 ## Other DevOps Projects
 
