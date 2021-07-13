@@ -7608,6 +7608,14 @@ with open('file.json', 'w') as f:
 
 <details>
 <summary>How do you join path components? for example <code>/home</code> and <code>luig</code> will result in <code>/home/luigi</code> </summary><br><b>
+
+```
+import os
+path = os.path.join('/home', 'luig')
+print(path)
+>>> '/home/luig'
+```
+
 </b></details>
 
 <details>
